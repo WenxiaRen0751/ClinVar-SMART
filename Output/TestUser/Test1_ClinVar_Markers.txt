@@ -1,0 +1,4 @@
+rsID	Chromosome	Position	Genotype	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status
+5082	1	161193683	AG	32975	336	Pathogenic	G	A	1	1	Hypercholesterolemia, familial, 1	no assertion criteria provided	1.0
+3755319	2	234667582	AA	27321	54658	Pathogenic	A	A	1	1	Lucey-Driscoll syndrome	no assertion criteria provided	2.0
+553668	10	112839579	GG	33200	150	Pathogenic	A	G	1	1	Lipodystrophy, familial partial, type 8	no assertion criteria provided	2.0

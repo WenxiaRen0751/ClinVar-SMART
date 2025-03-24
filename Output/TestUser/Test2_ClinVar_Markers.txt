@@ -1,0 +1,3 @@
+rsID	Chromosome	Position	Genotype	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status
+3755319	2	234667582	AA	27321	54658	Pathogenic	A	A	1	1	Lucey-Driscoll syndrome	no assertion criteria provided	2
+553668	10	112839579	GG	33200	150	Pathogenic	A	G	1	1	Lipodystrophy, familial partial, type 8	no assertion criteria provided	2

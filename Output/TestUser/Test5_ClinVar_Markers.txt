@@ -1,0 +1,4 @@
+rsID	Chromosome	Position	Genotype	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status
+2815822	6	6320808	TG	38650	2162	Pathogenic	T	T	1	1	Factor XIII, A subunit, deficiency of	no assertion criteria provided	1
+1805076	11	111635566	CT	21660	5519	Pathogenic	C	T	1	1	Lung carcinoma	no assertion criteria provided	1
+730881495	17	41219713	CC	131280	672	Pathogenic	C	C	1	1	Breast-ovarian cancer, familial, susceptibility to, 1	no assertion criteria provided	2

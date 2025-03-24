@@ -1,0 +1,9 @@
+rsID	Chromosome	Position	Genotype	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status
+5082	1	161193683	AA	32975	336	Pathogenic	G	A	1	1	Hypercholesterolemia, familial, 1	no assertion criteria provided	2
+3755319	2	234667582	AC	27321	54658	Pathogenic	A	A	1	1	Lucey-Driscoll syndrome	no assertion criteria provided	1
+267606858	3	148714193	TC	20993	2992	Pathogenic	C	T	1	1	Glycogen storage disease XV	no assertion criteria provided	1
+553668	10	112839579	GG	33200	150	Pathogenic	A	G	1	1	Lipodystrophy, familial partial, type 8	no assertion criteria provided	2
+730881495	17	41219713	CC	131280	672	Pathogenic	C	C	1	1	Breast-ovarian cancer, familial, susceptibility to, 1	no assertion criteria provided	2
+1054894	23	100601543	AA	26363	1678	Pathogenic	G	A	1	1	Deafness dystonia syndrome	no assertion criteria provided	2
+267606863	23	133632685	AA	25076	3251	Pathogenic	G	A	1	1	Lesch-Nyhan syndrome	no assertion criteria provided	2
+267606884	26	7274	CC	24712	4512	Pathogenic	T	C	1	1	Familial colorectal cancer	no assertion criteria provided	2

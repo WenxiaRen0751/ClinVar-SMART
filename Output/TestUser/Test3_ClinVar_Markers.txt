@@ -1,0 +1,7 @@
+rsID	Chromosome	Position	Genotype	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status
+5082	1	161193683	AG	32975	336	Pathogenic	G	A	1	1	Hypercholesterolemia, familial, 1	no assertion criteria provided	1
+3755319	2	234667582	AA	27321	54658	Pathogenic	A	A	1	1	Lucey-Driscoll syndrome	no assertion criteria provided	2
+397518480	X	40456545	TT	94337	10159	Pathogenic	C	T	1	1	X-linked parkinsonism-spasticity syndrome	no assertion criteria provided	2
+397514679	X	47433720	AG	50325	6853	Pathogenic	G	A	2	1	Epilepsy, X-linked 1, with variable learning disabilities and behavior disorders|SYN1-related disorder	criteria provided, single submitter	1
+1054894	X	100601543	AA	26363	1678	Pathogenic	G	A	1	1	Deafness dystonia syndrome	no assertion criteria provided	2
+1060500747	X	100653839	CT	404465	2717	Pathogenic	C	T	3	1	Fabry disease|not provided	criteria provided, multiple submitters, no conflicts	1

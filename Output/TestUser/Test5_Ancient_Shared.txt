@@ -1,0 +1,1 @@
+rsID	Genotype	Chromosome	Position	AlleleID	GeneID	ClinicalSignificance	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus	Mutation_Status	Master_ID
