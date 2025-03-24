@@ -5,7 +5,9 @@ ClinVar-SMART is a web-based tool and offer user customized ClinVar database pre
 
 **1) Dataset:**
 **CinVar Dataset**: variant_summary.txt.gz from ClinVar https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/ （version 2025 March）
+
 **Ancient sample**：v54.1_1240K_public.bed, v54.1_1240K_public.bim, v54.1_1240K_public.fam, Ancient_samples.txt. Ancient people ID is in Ancient_samples.txt
+
 **TestUser**: Test1_DNA.zip Test2.zip Test3.zip Test4.txt Test5.txt
 
 **2) What needs to be done:**
