@@ -1,0 +1,84 @@
+/home/inf-47-2024/ClinVar_SMART/
+├── Output
+│   ├── Ancient
+│   │   └── Ancient_ClinVar_Markers.txt
+│   ├── Filtered_ClinVAR
+│   │   └── ClinVar_to_SNP.txt
+│   └── TestUser
+│       ├── Test1_Ancient_Shared.txt
+│       ├── Test1_ClinVar_Markers.txt
+│       ├── Test2_Ancient_Shared.txt
+│       ├── Test2_ClinVar_Markers.txt
+│       ├── Test3_Ancient_Shared.txt
+│       ├── Test3_ClinVar_Markers.txt
+│       ├── Test4_Ancient_Shared.txt
+│       ├── Test4_ClinVar_Markers.txt
+│       ├── Test5_Ancient_Shared.txt
+│       └── Test5_ClinVar_Markers.txt
+├── Raw_Data
+│   ├── Ancient
+│   │   ├── Ancient_rsID_Filtered_Annotation.txt
+│   │   ├── Ancient_rsID_Filtered.txt
+│   │   ├── Ancient_samples_filtered.log
+│   │   ├── Ancient_samples_filtered.map
+│   │   ├── Ancient_samples_filtered.nosex
+│   │   ├── Ancient_samples_filtered.ped
+│   │   ├── Ancient_samples_filtered_rsID.txt
+│   │   ├── Ancient_samples.hh
+│   │   ├── Ancient_samples.log
+│   │   ├── Ancient_samples.map
+│   │   ├── Ancient_samples.nosex
+│   │   ├── Ancient_samples.ped
+│   │   ├── Ancient_samples.txt
+│   │   ├── ClinVar_to_SNP.txt
+│   │   ├── v54.1_1240K_public.bed
+│   │   ├── v54.1_1240K_public.bim
+│   │   ├── v54.1_1240K_public.fam
+│   │   ├── v54.1_1240K_public.hh
+│   │   ├── v54.1_1240K_public.log
+│   │   ├── v54.1_1240K_public.map
+│   │   ├── v54.1_1240K_public.nosex
+│   │   └── v54.1_1240K_public.ped
+│   ├── ClinVar
+│   │   ├── variant_summary.txt
+│   │   └── variant_summary.txt.gz
+│   └── TestUser
+│       ├── Reformatted_TestUser
+│       │   ├── Test1_DNA.txt
+│       │   ├── Test2_DNA.txt
+│       │   ├── Test3_DNA.txt
+│       │   ├── Test4_DNA.txt
+│       │   └── Test5_DNA.txt
+│       ├── Test1_DNA.txt
+│       ├── Test1_DNA.zip
+│       ├── Test1.txt
+│       ├── Test2_DNA.csv
+│       ├── Test2_DNA.txt
+│       ├── Test2.txt
+│       ├── Test2.zip
+│       ├── Test3_DNA.csv
+│       ├── Test3_DNA.txt
+│       ├── Test3.txt
+│       ├── Test3.zip
+│       ├── Test4_DNA_Convert.txt
+│       ├── Test4_DNA.txt
+│       ├── Test4.txt
+│       ├── Test5_DNA_Convert.txt
+│       ├── Test5_DNA.txt
+│       └── Test5.txt
+├── README.md
+├── src
+│   ├── APP
+│   │   ├── 1_📁_Homepage.py
+│   │   ├── ClinVar_SMART_Workflow.png
+│   │   └── pages
+│   │       ├── 2_🪐_Filter_ClinVar_Dataset.py
+│   │       ├── 3_🟡_Match_ped_map_File.py
+│   │       ├── 4_🧓_Identify_Ancients_ClinVar_Markers.py
+│   │       ├── 5_🙇_Identify_User_ClinVar_Markers.py
+│   │       ├── 6_👩‍👩‍👧‍👧_Find_Shared_ClinVar_Markers.py
+│   │       └── 7_📞_Contact_Us.py
+│   └── rsID_Parser.py
+└── Tree.txt
+
+13 directories, 69 files
