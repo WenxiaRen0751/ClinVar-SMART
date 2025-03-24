@@ -1,0 +1,43 @@
+AlleleID	GeneID	ClinicalSignificance	rsID	Chromosome	ReferenceAlleleVCF	AlternateAlleleVCF	NumberSubmitters	ClinSigSimple	PhenotypeList	ReviewStatus
+15615	5053	Pathogenic	5030861	12	C	T	33	1	Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder|Pituitary hormone deficiency, combined, 2	reviewed by expert panel
+15616	5053	Pathogenic	5030858	12	G	A	38	1	Phenylketonuria|not provided|PAH-related disorder|Inborn genetic diseases|See cases	reviewed by expert panel
+15620	5053	Pathogenic	76296470	12	G	A	16	1	Phenylketonuria|not provided	reviewed by expert panel
+15627	5053	Pathogenic	5030846	12	G	A	23	1	Phenylketonuria|not provided|PAH-related disorder|Inborn genetic diseases|Hyperphenylalaninemia	reviewed by expert panel
+15631	5053	Pathogenic	79931499	12	C	G	12	1	not provided|Phenylketonuria	reviewed by expert panel
+15632	5053	Pathogenic	5030860	12	T	C	30	1	Hyperphenylalaninemia|Phenylketonuria|not provided|PAH-related disorder|See cases	reviewed by expert panel
+15635	5053	Pathogenic	62514952	12	C	A	19	1	Phenylketonuria|not provided|PAH-related disorder	reviewed by expert panel
+15644	5053	Pathogenic	62642926	12	G	C	22	1	Phenylketonuria|PAH-related disorder|not provided|Inborn genetic diseases	reviewed by expert panel
+15646	5053	Pathogenic	5030855	12	C	T	31	1	Phenylketonuria|not provided|Inborn genetic diseases|Hyperphenylalaninemia	reviewed by expert panel
+15647	5053	Pathogenic	5030841	12	A	G	22	1	Phenylketonuria|Inborn genetic diseases|PAH-related disorder|not provided	reviewed by expert panel
+15649	5053	Pathogenic	5030850	12	G	A	20	1	Phenylketonuria|not provided|Pulmonary hypertension, primary, 1	reviewed by expert panel
+15651	5053	Pathogenic	5030859	12	C	T	19	1	Phenylketonuria|not provided|Hyperphenylalaninemia|PAH-related disorder	reviewed by expert panel
+15652	5053	Pathogenic	62642933	12	A	C	16	1	Phenylketonuria|not provided|PAH-related disorder	criteria provided, multiple submitters, no conflicts
+15664	5053	Pathogenic	5030856	12	T	C	21	1	Hyperphenylalaninemia|not provided|Phenylketonuria|PAH-related disorder|Mild hyperphenylalaninemia	reviewed by expert panel
+15864	324	Pathogenic	2229992	5	T	G	2	1	Familial adenomatous polyposis 1	criteria provided, single submitter
+17644	443	Pathogenic	28940279	17	A	C	19	1	Spongy degeneration of central nervous system|Canavan Disease, Familial Form|not provided|Inborn genetic diseases	criteria provided, multiple submitters, no conflicts
+17646	443	Pathogenic	28940574	17	C	A	17	1	Spongy degeneration of central nervous system|not provided|Canavan Disease, Familial Form|Inborn genetic diseases	criteria provided, multiple submitters, no conflicts
+19228	128178	Pathogenic	121908116	1	T	G	2	1	Ectodermal dysplasia 11A, hypohidrotic/hair/tooth type, autosomal dominant|Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant	no assertion criteria provided
+20366	9990	Pathogenic	121908428	15	G	A	8	1	Agenesis of the corpus callosum with peripheral neuropathy|SLC12A6-related disorder|not provided	criteria provided, multiple submitters, no conflicts
+20888	10913	Pathogenic	121908450	2	C	T	4	1	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive|Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant|Ectodermal dysplasia 10a, hypohidrotic/hair/tooth type, autosomal dominant|Mitochondrial DNA depletion syndrome 4b;Progressive sclerosing poliodystrophy|Autosomal recessive hypohidrotic ectodermal dysplasia syndrome;Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant	criteria provided, multiple submitters, no conflicts
+20891	10913	Pathogenic	121908452	2	G	A	6	1	Ectodermal dysplasia 10a, hypohidrotic/hair/tooth type, autosomal dominant|not provided|Non-syndromic oligodontia|Autosomal recessive hypohidrotic ectodermal dysplasia syndrome;Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant|Ectodermal dysplasia 10A, hypohidrotic/hair/nail type, autosomal dominant	criteria provided, multiple submitters, no conflicts
+20894	10913	Pathogenic	121908454	2	C	T	1	1	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive	no assertion criteria provided
+20895	10913	Pathogenic	121908455	2	T	G	1	1	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive	no assertion criteria provided
+20896	10913	Pathogenic	121908456	2	C	A	1	1	Ectodermal dysplasia 10a, hypohidrotic/hair/tooth type, autosomal dominant	no assertion criteria provided
+21124	8518	Pathogenic	111033171	9	A	G	21	1	Familial dysautonomia|not provided|Charcot-Marie-Tooth disease|Medulloblastoma|Familial dysautonomia;Medulloblastoma|not specified	criteria provided, multiple submitters, no conflicts
+25006	4128	Pathogenic	72554632	X	C	T	1	1	Brunner syndrome	no assertion criteria provided
+26930	2160	Pathogenic	121965063	4	G	T	26	1	not provided|Inborn genetic diseases|Plasma factor XI deficiency|Hereditary factor XI deficiency disease|Abnormal bleeding;Thrombocytopenia|F11-related disorder	criteria provided, multiple submitters, no conflicts
+26931	2160	Pathogenic	121965064	4	T	C	20	1	Hereditary factor XI deficiency disease|Plasma factor XI deficiency|not provided|Factor XI|F11-related disorder	criteria provided, multiple submitters, no conflicts
+27321	54658	Pathogenic	3755319	2	A	A	1	1	Lucey-Driscoll syndrome	no assertion criteria provided
+27778	6352	Pathogenic	2280788	17	G	C	1	1	Human immunodeficiency virus type 1, delayed disease progression with infection by	no assertion criteria provided
+29763	3458	Pathogenic	2069709	12	C	A	1	1	Acquired immunodeficiency syndrome, rapid progression to	no assertion criteria provided
+32975	336	Pathogenic	5082	1	G	A	1	1	Hypercholesterolemia, familial, 1	no assertion criteria provided
+38650	2162	Pathogenic	2815822	6	T	T	1	1	Factor XIII, A subunit, deficiency of	no assertion criteria provided
+98634	5053	Pathogenic	62516092	12	G	C	19	1	not provided|Phenylketonuria|See cases|Inborn genetic diseases|PAH-related disorder	criteria provided, multiple submitters, no conflicts
+98638	5053	Pathogenic	5030857	12	G	A	39	1	Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder	reviewed by expert panel
+98658	5053	Pathogenic	5030853	12	C	A	33	1	Phenylketonuria|Hyperphenylalaninemia|not provided|Inborn genetic diseases	reviewed by expert panel
+214840	4099	Pathogenic	2301600	19	C	G	1	1	Hereditary spastic paraplegia 75	no assertion criteria provided
+245364	3949	Pathogenic	2228671	19	C	A	7	1	Hypercholesterolemia, familial, 1|Familial hypercholesterolemia|Cardiovascular phenotype	criteria provided, multiple submitters, no conflicts
+417130	54714	Pathogenic	6471482	8	A	T	1	1	Achromatopsia 3	no assertion criteria provided
+564600	2131	Pathogenic	11546829	8	G	T	1	1	Multiple congenital exostosis	criteria provided, single submitter
+1467984	5053	Pathogenic	5030851	12	G	C	1	1	Phenylketonuria	criteria provided, single submitter
+1695359	51776	Pathogenic	3769148	2	C	A	1	1	Split-foot malformation-mesoaxial polydactyly syndrome	criteria provided, single submitter
