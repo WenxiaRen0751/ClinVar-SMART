@@ -4,22 +4,33 @@ ClinVar-SMART is a web-based tool and offer user customized ClinVar database pre
 # Project Introduction - Disease susceptibility
 
 **1) Dataset:**
+
 **CinVar Dataset**: variant_summary.txt.gz from ClinVar https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/ （version 2025 March）
+
 **Ancient sample**：v54.1_1240K_public.bed, v54.1_1240K_public.bim, v54.1_1240K_public.fam, Ancient_samples.txt. Ancient people ID is in Ancient_samples.txt
+
 **TestUser**: Test1_DNA.zip Test2.zip Test3.zip Test4.txt Test5.txt
 
 **2) What needs to be done:**
+
 a.	Identify which ancient people have ClinVar markers and output that to a table. 
+
 b.	Read the user’s file and output a table of the ClinVAR markers the user has. 
+
 c.	Output to a table in which ancient people have the same ClinVAR mutations as the user.
 
 **3) Software and Packages Version**
+
 Python 3.12.2 
+
 PLINK v1.90b7 64-bit
+
 pandas (v 2.2.3)
+
 streamlit (v1.43.2)
 
 **4) The Workflow of ClinVar-SMART**
+
 
 ![ClinVar-SMART Workflow](./src/APP/ClinVar_SMART_Workflow.png)
 
